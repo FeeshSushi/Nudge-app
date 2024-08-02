@@ -1,4 +1,4 @@
-# Nudge-app
+# Nudge
 Social Media app meant for spontaneous hangouts!
 
 ## Prototype
