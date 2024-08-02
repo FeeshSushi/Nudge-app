@@ -12,7 +12,15 @@ Nudge aims to resolve this by giving you a platform to see friends that are avai
 Nudge does not include any messaging functions as most people have their own preferred methods to reach out, and rather only aims to provide a platform for its users to find friends that are open to hanging out. To maximize this goal, the usage of iOS widgets or the Apple Watch app to quickly switch statuses or alert a certain group of friends allows users to achieve most of the purpose of the app with a simple motion.
 
 ## Functionality
-The main interactable feature of Nudge is the status button. On the iPhone app, widget, and the Apple Watch app, Nudge features a button that displays its user's current status. If the user is currently offline, there are two ways to change the status:
+The main interactable feature of Nudge is the status button. On the iPhone app, widget, and the Apple Watch app, Nudge features a button that displays its user's current status. There are two ways to change the status on Nudge:
+
+### Tapping the button:
+By tapping the button, the user can change their status between Online and Offline. This does not send any notifications to other users, and only affects whether the current user will appear on any other user's Online list.
+
+### Holding the button:
+When holding the button, a radial menu will appear around the button with eight options which the user can choose to fill with friend groups they can decide in the app. This allows for the user to select which friend group they want to nudge, and automatically sends out nudges to the users in the group that are currently online as well (automatic nudges can be turned off).
+
+While offline on Nudge, the user cannot send nor receieve any nudges from anyone else. When Online and in the app, the user can see whether they have receieved any nudges as well as a Availability list that displays all the friends of the user that are currently Online to the user. From the list, the user can selectively nudge individuals they want to nudge.
 
 ## Use Cases
 ### Case 1: Dokja and Sooyoung, university students
