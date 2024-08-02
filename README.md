@@ -14,10 +14,7 @@ Nudge does not include any messaging functions as most people have their own pre
 ## Functionality
 The main interactable feature of Nudge is the status button. On the iPhone app, widget, and the Apple Watch app, Nudge features a button that displays its user's current status. There are two ways to change the status on Nudge:
 
-### Tapping the button:
 1.) By tapping the button, the user can change their status between Online and Offline. This does not send any notifications to other users, and only affects whether the current user will appear on any other user's Online list.
-
-### Holding the button:
 2.) When holding the button, a radial menu will appear around the button with eight options which the user can choose to fill with friend groups they can decide in the app. This allows for the user to select which friend group they want to nudge, and automatically sends out nudges to the users in the group that are currently online as well (automatic nudges can be turned off).
 
 While offline on Nudge, the user cannot send nor receieve any nudges from anyone else. When Online and in the app, the user can see whether they have receieved any nudges as well as a Availability list that displays all the friends of the user that are currently Online to the user. From the list, the user can selectively nudge individuals they want to nudge.
